@@ -4,6 +4,6 @@ This Jupyter Notebook provides an example of retrieving company events for a lis
 
 **Pre-requisites:** 
 
-**Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
+**Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api)
 
 **Required Python Packages:** eikon, pandas 
